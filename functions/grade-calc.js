@@ -20,5 +20,5 @@ Finalgrade = function (studentScore, totalScore) {
     return `You got a ${letter} and (${percent}%)!`
 }
 
-let rezultat = Finalgrade (10, 20)
-console.log(rezultat); 
+let result = Finalgrade (10, 20)
+console.log(result); 
