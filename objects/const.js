@@ -1,5 +1,5 @@
 const isRaining = true
 
-isRaining = false
+//isRaining = false
 
 console.log(isRaining);
